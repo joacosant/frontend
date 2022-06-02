@@ -1,0 +1,31 @@
+body { 
+    font-family: 'Roboto', sans-serif;
+background-image: url(../img/fondo2.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+header {
+    text-align: center;
+}
+.fotojm{
+    width: 200px;
+    height: 250px;
+}
+h1 {
+    color: rgb(0, 0, 0);
+text-align: center;
+}
+h3 {
+    color: rgb(0, 0, 0);
+}
+.batman div {
+    text-align: center;
+}
+.negrita {
+    font-weight: bold;
+}
+footer h4 { 
+    text-align:center;
+    background-color:rgb(255, 255, 255);
+    color: rgb(0, 0, 0);;
+}
